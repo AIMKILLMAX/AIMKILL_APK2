@@ -1,6 +1,8 @@
-[
-  {
-    "username": "1",
-    "password": "1"
-  }
-]
+{
+  "content": [
+    {
+      "username": "1",
+      "password": "1"
+    }
+  ]
+}
